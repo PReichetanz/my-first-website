@@ -1,4 +1,4 @@
-# My Second Website Project
+# Let's try another Headline
 
 Example Repository for Git Advanced Session
 

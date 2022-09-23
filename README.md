@@ -1,4 +1,4 @@
-# Just a stupid one this time
+# My Second Website Project
 
 Example Repository for Git Advanced Session
 

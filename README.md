@@ -1,4 +1,4 @@
-# My Very First Website
+# This is my Website
 
 Example Repository for Git Advanced Session
 

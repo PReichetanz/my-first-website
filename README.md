@@ -1,4 +1,4 @@
-# Just a stupid one this time
+# Let's try another Headline
 
 Example Repository for Git Advanced Session
 

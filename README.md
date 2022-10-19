@@ -1,4 +1,4 @@
-# Let's try another headline now
+# Maybe this one
 
 Example Repository for Git Advanced Session
 
